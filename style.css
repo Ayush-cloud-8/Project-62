@@ -1,0 +1,56 @@
+.images {
+    height: 200px;
+    width: 20%;
+    margin: 2px;
+}
+
+span {
+   margin-top: 20px;  
+}
+
+body {
+    text-align: center
+}
+
+#home {
+    width: 100%;
+    margin-top: 50px;
+}
+
+#menu {
+    top: 0px;
+    left: 0px;
+    z-index: 10;
+    position: fixed;
+    
+    background-color: white;
+    margin-top: 0px;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.links {
+    display: inline;
+    margin: 10px;
+    font-size: 20px;
+    cursor: text;
+    font-weight: 700;
+    color: #6b0777;
+    padding-left: 35px;
+    padding-right: 25px;
+}
+
+a {
+    text-decoration: none;
+}
+
+#imghime {
+    height: 840px;
+}
+
+.slideimages {
+    max-width: 1000px;
+    height: 700px;
+    margin: 20px;
+}
